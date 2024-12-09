@@ -1,12 +1,12 @@
-## Hi there 👋
+# 🌍 IDAlert Indicators 🦠
 
-<!--
+Climate change is increasing the spread and recurrence of zoonotic infectious diseases across Europe, posing significant challenges to public health. This project aims to support policy and decision-makers by providing tailored tools that monitor and assess climate-induced disease risks. By delivering timely early warnings, assessing potential impacts, and enabling proactive preparedness, these indicators offer actionable insights to mitigate the impacts of climate change on public health. They empower decision-makers, support timely responses to emerging health threats, and protect communities from the expanding risks of zoonotic diseases.
 
-**Here are some ideas to get you started:**
+## 🎯 Indicators Developed
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We’ve focused on several key diseases and climate-related factors:
+
+- 🦟 **Malaria Indicator**
+- 🐜 **Tick-Borne Diseases Indicator**
+- 🌵 **Drought Indicator**
+- 🐕 **Leishmaniasis Indicator**
